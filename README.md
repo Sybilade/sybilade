@@ -6,4 +6,4 @@
 - Investigating use of automated, closed, cell and disease models for use in extreme or low-resource environments
 - Learning more about 3D printers and 3D bioprinters for Organ-on-a-chip and Lab-on-a-chip development
 - Confident in numerous biomedical science topics related to Immunology, Multi-Omics, and Protein Structures
-- My goals are to apply for PhD Bioengineering programs for the 2028 cycle and work with NASA collaborators
+- My goals are to apply my computational skills to analyze the effect of extreme environments on human physiology
